@@ -1,6 +1,6 @@
 # 🖤 Hi, I'm <b>Deestad!</b>
 ## Graphic Designer, Video Producer, Marketeer/Advertiser, Front-End and Back-End developer. 
-> "It's camouflaged. It's disguised as a police telephone box from 1963. Every time the TARDIS materialises in a new location, within the first nanosecond of landing, it analyses its surroundings, calculates a twelve-dimensional data map of everything within a thousand-mile radius and then determines which outer shell would blend in best with the environment.... and then it disguises itself as a police telephone box from 1963"
+> "It's camouflaged. It's disguised as a police telephone box from 1963. Every time the TARDIS materialises in a new location, within the first nanosecond of landing, it analyses its surroundings, calculates a twelve-dimensional data map of everything within a thousand-mile radius and then determines which outer shell would blend in best with the environment.... and then it disguises itself as a police telephone box from 1963."
 
 <img src="https://pbs.twimg.com/media/EZxjOgQXsAQBT5L?format=jpg&name=medium">
 <br><br>
