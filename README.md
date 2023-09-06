@@ -5,7 +5,7 @@
 <img src="https://pbs.twimg.com/media/EZxjOgQXsAQBT5L?format=jpg&name=medium">
 <br><br>
 <p align="left">
-I'm a Brazilian Software Engineer and Programmer who's in love with the process of inventing new technology and solving problems. I'm currently trying to study as much as I can, learning through practice and using GIT to create useful solutions with clean and efficient code.
+I'm a Brazilian programmer who's in love with the process of inventing random things and solving problems. I'm currently trying to study as much as I can, learning through  practice and using GIT to create useful and fun applications.
 </p>
 <b>Languages and Tools:</b>
 <br><br>
