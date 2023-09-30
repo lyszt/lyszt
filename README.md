@@ -1,6 +1,6 @@
 # 🖤 João Luís
 ## In the process of becoming a skilled programmer 
-> Hello, I'm a software enthusiast based in Brazil. I derive satisfaction from developing software and crafting solutions to challenges that come my way.
+Hello, I'm a software enthusiast based in Brazil. I derive satisfaction from developing software and crafting solutions to challenges that come my way.
 Currently, I'm working towards becoming a data scientist. The idea of exploring data, extracting valuable insights, and using them to address real-world problems deeply intrigues me. It's all about utilizing data to tackle complex issues and make well-informed decisions. I also have some interest in other areas and have dabbled a bit in game development.
 
 **I have some notions of:**
