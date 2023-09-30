@@ -9,7 +9,7 @@ I'm a Brazilian programmer who's in love with the process of inventing random th
 </p>
 <b>Languages and Tools:</b>
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deestad)](https://github.com/Deestad/github-readme-stats)
 <div>
 <img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">
 <img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
