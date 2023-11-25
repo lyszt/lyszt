@@ -13,9 +13,9 @@ Currently, I'm working towards becoming a data scientist. The idea of exploring 
 
 ### Time continues to flow, and time brings change.
 
-> "It's camouflaged. It's disguised as a police telephone box from 1963. Every time the TARDIS materializes in a new location, within the first nanosecond of landing, it analyzes its surroundings, calculates a twelve-dimensional data map of everything within a thousand-mile radius and then determines which outer shell would blend in best with the environment... and then it disguises itself as a police telephone box from 1963."
+> "E' mimetizzato. È camuffato da cabina telefonica della polizia del 1963. Ogni volta che il TARDIS si materializza in una nuova posizione, entro il primo nanosecondo dall'atterraggio, analizza l'ambiente circostante, calcola una mappa dati a dodici dimensioni di tutto entro un raggio di mille miglia e quindi determina quale involucro esterno si fonderebbe meglio con l'ambiente... e poi si traveste da cabina telefonica della polizia del 1963."
 
-![TARDIS](https://pbs.twimg.com/media/EZxjOgQXsAQBT5L?format=jpg&name=medium)
+![EUROPE]([https://pbs.twimg.com/media/EZxjOgQXsAQBT5L?format=jpg&name=medium](https://i.pinimg.com/564x/8b/7d/8f/8b7d8f6966f085cc43fd1fe92d16b708.jpg))
 
 
 
