@@ -15,7 +15,7 @@ Currently, I'm working towards becoming a data scientist. The idea of exploring 
 
 > "E' mimetizzato. È camuffato da cabina telefonica della polizia del 1963. Ogni volta che il TARDIS si materializza in una nuova posizione, entro il primo nanosecondo dall'atterraggio, analizza l'ambiente circostante, calcola una mappa dati a dodici dimensioni di tutto entro un raggio di mille miglia e quindi determina quale involucro esterno si fonderebbe meglio con l'ambiente... e poi si traveste da cabina telefonica della polizia del 1963."
 
-![EUROPE]([https://pbs.twimg.com/media/EZxjOgQXsAQBT5L?format=jpg&name=medium](https://i.pinimg.com/564x/8b/7d/8f/8b7d8f6966f085cc43fd1fe92d16b708.jpg))
+![EUROPE]([https://pbs.twimg.com/media/EZxjOgQXsAQBT5L?format=jpg&name=medium](https://i.pinimg.com/564x/8b/7d/8f/8b7d8f6966f085cc43fd1fe92d16b708.jpg)
 
 
 
