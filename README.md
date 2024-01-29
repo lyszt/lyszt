@@ -6,6 +6,12 @@
 
 Hello, my name is **João Luís**, but on the internet I go through the nickname of **Kaldwin**. I'm a software enthusiast based in Brazil. I derive satisfaction from developing software and crafting solutions to challenges that come my way. 🎮
 
+Project | Language | Description | # | | # | # |  #| #|  | # | #
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+ToadKeep | Python |  Virtual keyboard where you can copy characters and emotiocns from a beautiful UI. Made to solve my keyboard problems.
+Providentia | Python |  Discord bot built for spying and war. Made with SQL and Python using the module discord.py
+Providentia SpySuite | HTML/CSS/JAVASCRIPT + Python + Django + React | Web app created to be used with the Discord bot, Providentia. Uses panda and matplot for data analysis, translating the info into a friendly interface.
+Scarlett Gateway | HTML/CSS/JAVASCRIPT + PHP | Web app made to organize my day-to-day life through the use of agendas, automation, reminders and other systems. 
 ### Languages I'm familiar with
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
