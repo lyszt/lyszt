@@ -9,8 +9,8 @@ Hello, my name is **João Luís**, but on the internet I go through the nickname
 Project | Language | Description | # | | # | # |  #| #|  | # | #
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticons from a beautiful UI. Made to solve my keyboard problems.
-Providentia | Python |  Discord bot built for spying and war. Made with SQL and Python using the module discord.py
-Providentia SpySuite | HTML/CSS/JAVASCRIPT + Python + Django + React | Web app created to be used with the Discord bot, Providentia. Uses panda and matplot for data analysis, translating the info into a friendly interface.
+Providentia | Python |  Discord bot built for spying and war. Made with SQL and Python using the module discord.py  Uses panda and matplot for data and statistical analysis. Has commands relating to fun and memes, and also facial recognition of discord attachments. More content is planned to be invented for the bot.
+Providentia SpySuite | HTML/CSS/JAVASCRIPT + Python + Django + React | Web app created to be used with the Discord bot, Providentia. It takes the information gotten from usuer input and translates it into a friendly interface.
 Scarlett Gateway | HTML/CSS/JAVASCRIPT + PHP | Web app made to organize my day-to-day life through the use of agendas, automation, reminders and other systems. 
 ### Languages I'm familiar with
 
