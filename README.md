@@ -12,7 +12,8 @@ ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticon
 Providentia | Python |  Discord bot built for spying and war. Made with SQL and Python using the module discord.py  Uses panda and matplot for data and statistical analysis. Has commands relating to fun and memes, and also facial recognition of discord attachments. More content is planned to be invented for the bot.
 Providentia SpySuite | HTML/CSS/JAVASCRIPT + Python + Django + React | Web app created to be used with the Discord bot, Providentia. It takes the information gotten from user input and translates it into a friendly interface.
 Scarlett Gateway | HTML/CSS/JAVASCRIPT + PHP | Web app made to organize my day-to-day life through the use of agendas, automation, reminders and other systems. 
-Insight II | Python Kivy |  Insight offers competitor analysis functionalities through a desktop application. Automated web scraping allows it to collect competitor-related data from various online resources, which can then be analyzed and compared within the tool.
+Kairos Praxis | Python (Kivy) |  Insight offers competitor analysis functionalities through a desktop application. Automated web scraping allows it to collect competitor-related data from various online resources, which can then be analyzed and compared within the tool.
+
 ### Languages I'm familiar with
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
