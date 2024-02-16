@@ -14,6 +14,8 @@ Providentia SpySuite | HTML/CSS/JAVASCRIPT + Python + Django + React | Web app c
 Scarlett Gateway | HTML/CSS/JAVASCRIPT + PHP | Web app made to organize my day-to-day life through the use of agendas, automation, reminders and other systems. 
 Kairos Praxis | Python (Kivy) |  Insight offers competitor analysis functionalities through a desktop application. Automated web scraping allows it to collect competitor-related data from various online resources, which can then be analyzed and compared within the tool.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyszt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages I'm familiar with
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
