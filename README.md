@@ -6,13 +6,13 @@
 
 Hello, my name is **João Luís**, but on the internet I go through the nickname of **Kaldwin**. I'm a software enthusiast based in Brazil. I derive satisfaction from developing software and crafting solutions to challenges that come my way. 🎮
 
-Project | Language | Description | # | | # | # |  #| #|  | # | #
+Project | Language | Description | Status | | # | # |  #| #|  | # | #
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticons from a beautiful UI. Made to solve my keyboard problems.
-Providentia | Python |  Discord bot built for spying and war. Made with SQL and Python using the module discord.py  Uses panda and matplot for data and statistical analysis. Has commands relating to fun and memes, and also facial recognition of discord attachments. More content is planned to be invented for the bot.
-Providentia SpySuite | HTML/CSS/JAVASCRIPT + Python + Django + React | Web app created to be used with the Discord bot, Providentia. It takes the information gotten from user input and translates it into a friendly interface.
-Scarlett Gateway | HTML/CSS/JAVASCRIPT + PHP | Web app made to organize my day-to-day life through the use of agendas, automation, reminders and other systems. 
-Kairos Praxis | Python (Kivy) |  Insight offers competitor analysis functionalities through a desktop application. Automated web scraping allows it to collect competitor-related data from various online resources, which can then be analyzed and compared within the tool.
+ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticons from a beautiful UI. Made to solve my keyboard problems. | Version 1.0
+Providentia | Python |  Discord bot built for spying and war. Made with SQL and Python using the module discord.py  Uses panda and matplot for data and statistical analysis. Has commands relating to fun and memes, and also facial recognition of discord attachments. More content is planned to be invented for the bot. | Version 2 (Cataclyst)
+Providentia SpySuite | HTML/CSS/JAVASCRIPT + Python + Django + React | Web app created to be used with the Discord bot, Providentia. It takes the information gotten from user input and translates it into a friendly interface. | Under development
+Scarlett Gateway | HTML/CSS/JAVASCRIPT + PHP | Web app made to organize my day-to-day life through the use of agendas, automation, reminders and other systems. | Under development
+Kairos Praxis | Python (Kivy) |  Insight offers competitor analysis functionalities through a desktop application. Automated web scraping allows it to collect competitor-related data from various online resources, which can then be analyzed and compared within the tool.  | Under development
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyszt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
