@@ -1,4 +1,7 @@
-# Hey! I'm Luís. Welcome to my GitHub! 🖤 Please check out my website [here](https://lyszt.github.io)! :)
+# Hey! I'm Luís. Welcome to my GitHub! 🖤 Check out my website [here](https://lyszt.github.io)! :)
+[![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](https://forthebadge.com)
 ![HomeBanner](https://i.imgur.com/yyesY5x.png)
 ## Starting out
 
