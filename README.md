@@ -1,4 +1,4 @@
-## Hey! Welcome to my GitHub! 🖤 You can also check my  right [here](https://lyszt.github.io) :)
+## Hey! Welcome to my GitHub! 🖤 Check out my website [here](https://lyszt.github.io)! :)
 
 ![HomeBanner](https://i.imgur.com/yyesY5x.png)
 
