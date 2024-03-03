@@ -1,7 +1,5 @@
-## Hey! Welcome to my GitHub! 🖤 Check out my website [here](https://lyszt.github.io)! :)
-
+# Hey! I'm Luís. Welcome to my GitHub! 🖤 Please check out my website [here](https://lyszt.github.io)! :)
 ![HomeBanner](https://i.imgur.com/yyesY5x.png)
-
 ## Starting out
 
 Hello, my name is **João Luís**, but on the internet I go through the nickname of **Kaldwin**. I'm a software enthusiast based in Brazil. I derive satisfaction from developing software and crafting solutions to challenges that come my way. 🎮
