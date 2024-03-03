@@ -39,3 +39,4 @@ Kairos Praxis | Python (Kivy) |  Insight offers competitor analysis functionalit
 > "It's disguised. It's camouflaged as a 1963 police telephone box. Every time the TARDIS materializes in a new location, within the first nanosecond of landing, it analyzes the surrounding environment, calculates a twelve-dimensional data map of everything within a thousand-mile radius, and then determines which outer shell would blend in best with the environment... and then it disguises itself as a 1963 police telephone box."
 
 ![EUROPE](https://fantascienzaitalia.com/wp-content/uploads/2018/11/DOCTOR-WHO-1963-serie-TV.jpg)
+[![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
