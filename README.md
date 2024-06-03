@@ -15,7 +15,7 @@ Mestre Sara | Python | My most advanced discord bot, it usually gets updated bef
 Providentia SpySuite | HTML/CSS/JAVASCRIPT + Python + Django + React | Web app created to be used with the Discord bot, Providentia. It takes the information gotten from user input and translates it into a friendly interface. | Under development
 Scarlett Gateway | HTML/CSS/JAVASCRIPT + PHP | Web app made to organize my day-to-day life through the use of agendas, automation, reminders and other systems. | Finished. Switched for Lyszt.github.io for blogging and professional reasons, and the daily life functionalities were integrated into Providentia. 
 Kairos Praxis | Python (Kivy) |  Insight offers competitor analysis functionalities through a desktop application. Automated web scraping allows it to collect competitor-related data from various online resources, which can then be analyzed and compared within the tool.  | Under development
-ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticons from a beautiful UI. Made to solve my keyboard problems. | Finished. (Nothing else to add, I decided to leave for bigger projects)
+ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticons from a beautiful UI. Made to solve my keyboard problems. | Discontinued. (Nothing else to add, I decided to leave for bigger projects)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyszt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
