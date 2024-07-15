@@ -1,4 +1,6 @@
 # Hey! I'm Luís. Welcome to my GitHub! 🖤 Check out my website [here](https://lyszt.github.io)! :)
+![](https://komarev.com/ghpvc/?username=lyszt&style=flat-square)
+
 [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](https://forthebadge.com)
