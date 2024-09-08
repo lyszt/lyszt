@@ -1,13 +1,14 @@
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://lyszt.github.io) 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=610&size=30&pause=1000&color=000000&width=435&lines=PERFER+ET+OBDURA;%E2%80%94+DOLOR+HIC+TIBI+PRODERIT+OLIM.)](https://git.io/typing-svg)
+---
+**Hello! My name is João Luís. For a few years now, I have been working independently with Web Development, Graphic Design, UI/UX and several other technologies. Through these experiences, I have also deepened my knowledge in SEO Tactics and Marketing Strategies.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://lyszt.github.io) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyszt/)
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
 ![HomeBanner](https://i.imgur.com/yyesY5x.png)
-## Starting out
-Hello, my name is **João Luís**, but on the internet I go through the nickname of **Kaldwin**. I'm a software enthusiast based in Brazil. I derive satisfaction from developing software and crafting solutions to challenges that come my way. 🎮
 
 Project | Language | Description | Status | | # | # |  #| #|  | # | #
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
@@ -33,8 +34,6 @@ ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticon
 ### Frameworks
 
 ![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-![](https://komarev.com/ghpvc/?username=lyszt&style=flat-square)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -43,3 +42,6 @@ ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticon
 > "It's disguised. It's camouflaged as a 1963 police telephone box. Every time the TARDIS materializes in a new location, within the first nanosecond of landing, it analyzes the surrounding environment, calculates a twelve-dimensional data map of everything within a thousand-mile radius, and then determines which outer shell would blend in best with the environment... and then it disguises itself as a 1963 police telephone box."
 
 ![EUROPE](https://fantascienzaitalia.com/wp-content/uploads/2018/11/DOCTOR-WHO-1963-serie-TV.jpg)
+
+![](https://komarev.com/ghpvc/?username=lyszt&style=flat-square)
+
