@@ -10,6 +10,10 @@
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
 ![HomeBanner](https://i.imgur.com/yyesY5x.png)
 
+The Imperial Academy | A spot for practice and learning | 
+--- | --- |
+L'académie Impériale de Lygon | The [*Imperial Academy*](https://github.com/lyszt/Academie-de-Lyszt) is a repository for various programming experiments and projects and where I save and register the courses I've been doing. 
+
 Project | Language | Description | Status | | # | # |  #| #|  | # | #
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 Providentia | Python |  Discord bot built for spying and war. Made with SQL and Python using the module discord.py  Uses panda and matplot for data and statistical analysis. Has commands relating to fun and memes, and also facial recognition of discord attachments. More content is planned to be invented for the bot. | ⬜ Version 3 (Magnata)
