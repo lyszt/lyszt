@@ -11,9 +11,10 @@
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
 ![HomeBanner](https://i.imgur.com/yyesY5x.png)
 
-The Imperial Academy | A spot for practice and learning | 
---- | --- |
-L'académie Impériale de Lygon | The [*Imperial Academy*](https://github.com/lyszt/Academie-de-Lyszt) is a repository for various programming experiments and projects and where I save and register the courses I've been doing. 
+### ❤️ Académie Impériale des Beaux Arts 💙
+> The [*Imperial Academy*](https://github.com/lyszt/Academie-de-Lyszt) is a repository for various programming experiments and projects and where I save and register the courses I've been doing. 
+
+### ⚙️ Cérveau-Matrioshka 
 
 Project | Language | Description | Status | | # | # |  #| #|  | # | #
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
@@ -23,6 +24,13 @@ Providentia SpySuite | HTML/CSS/JAVASCRIPT + Python + Django + React | Web app c
 Scarlett Gateway | HTML/CSS/JAVASCRIPT + PHP | Web app made to organize my day-to-day life through the use of agendas, automation, reminders and other systems. | ❌ Discontinued. Switched for Lyszt.github.io for blogging and professional reasons, and the daily life functionalities were integrated into Providentia. 
 Kairos Praxis | Python (Kivy) |  Insight offers competitor analysis functionalities through a desktop application. Automated web scraping allows it to collect competitor-related data from various online resources, which can then be analyzed and compared within the tool.  | 🔨 Under development
 ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticons from a beautiful UI. Made to solve my keyboard problems. | ✔️ Finished. (Nothing else to add, I decided to leave for bigger projects)
+
+
+## Time continues to flow, and time brings change.
+
+> "It's disguised. It's camouflaged as a 1963 police telephone box. Every time the TARDIS materializes in a new location, within the first nanosecond of landing, it analyzes the surrounding environment, calculates a twelve-dimensional data map of everything within a thousand-mile radius, and then determines which outer shell would blend in best with the environment... and then it disguises itself as a 1963 police telephone box."
+
+![EUROPE](https://fantascienzaitalia.com/wp-content/uploads/2018/11/DOCTOR-WHO-1963-serie-TV.jpg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyszt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -70,11 +78,6 @@ ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticon
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-## Time continues to flow, and time brings change.
 
-> "It's disguised. It's camouflaged as a 1963 police telephone box. Every time the TARDIS materializes in a new location, within the first nanosecond of landing, it analyzes the surrounding environment, calculates a twelve-dimensional data map of everything within a thousand-mile radius, and then determines which outer shell would blend in best with the environment... and then it disguises itself as a 1963 police telephone box."
 
-![EUROPE](https://fantascienzaitalia.com/wp-content/uploads/2018/11/DOCTOR-WHO-1963-serie-TV.jpg)
-
-[![Meme](https://preview.redd.it/everyoneshouldusegit-v0-8oiildh76hvd1.png?auto=webp&s=92c4e0861936395eff09f76e70a7512240f5728b)
 
