@@ -4,6 +4,7 @@
 **Hello! My name is João Luís. For a few years now, I have been working independently with Web Development, Graphic Design, UI/UX and several other technologies. Through these experiences, I have also deepened my knowledge in SEO Tactics and Marketing Strategies.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://lyszt.github.io) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyszt/)
+![](https://komarev.com/ghpvc/?username=lyszt&style=flat-square)
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com)
@@ -75,6 +76,5 @@ ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticon
 
 ![EUROPE](https://fantascienzaitalia.com/wp-content/uploads/2018/11/DOCTOR-WHO-1963-serie-TV.jpg)
 
-![](https://komarev.com/ghpvc/?username=lyszt&style=flat-square)
 [![Meme](https://preview.redd.it/everyoneshouldusegit-v0-8oiildh76hvd1.png?auto=webp&s=92c4e0861936395eff09f76e70a7512240f5728b)
 
