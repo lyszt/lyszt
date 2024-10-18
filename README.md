@@ -16,6 +16,32 @@
 
 ### ⚙️ Cérveau-Matrioshka 
 
+<div class="table-devenvironment">
+  <table style="font-size: 11px">
+  <tr>
+  <td valign="top" width="50%">
+
+#### 🖥️ Tools 
+
+While working on my projects, those are my favourites:
+
+  ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+  ![CLION](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+  ![Web Storm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
+
+  </td>
+  <td valign="top" width="50%">
+
+#### 🐧 Be advised:
+
+"J'aime 'gourmetiser' mes projets sur GitHub, en y ajoutant une touche artistique. Chaque projet, bien qu'il soit ancré dans la programmation, est conçu pour avoir son propre univers et une histoire.
+
+  </td>
+  </tr>
+  </table>
+</div>
+
 Project | Language | Description | Status | | # | # |  #| #|  | # | #
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 Providentia | Python |  Discord bot built for spying and war. Made with SQL and Python using the module discord.py  Uses panda and matplot for data and statistical analysis. Has commands relating to fun and memes, and also facial recognition of discord attachments. More content is planned to be invented for the bot. | ⬜ Version 3 (Magnata)
