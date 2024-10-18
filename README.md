@@ -42,8 +42,8 @@ While working on my projects, those are my favourites:
   </table>
 </div>
 
-Project | Language | Description | Status | | # | # |  #| #|  | # | #
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Project | Language | Description | Status | 
+--- | --- | --- | --- |
 Providentia | Python |  Discord bot built for spying and war. Made with SQL and Python using the module discord.py  Uses panda and matplot for data and statistical analysis. Has commands relating to fun and memes, and also facial recognition of discord attachments. More content is planned to be invented for the bot. | ⬜ Version 3 (Magnata)
 Mestre Sara | Python | My most advanced discord bot, it usually gets updated before Providentia. Providentia then takes the light-weight functionalities and gets updated. | ⬜ Version 1
 Providentia SpySuite | HTML/CSS/JAVASCRIPT + Python + Django + React | Web app created to be used with the Discord bot, Providentia. It takes the information gotten from user input and translates it into a friendly interface. | 🔨 Under development
