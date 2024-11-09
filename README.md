@@ -56,7 +56,7 @@ ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticon
 
 > "It's disguised. It's camouflaged as a 1963 police telephone box. Every time the TARDIS materializes in a new location, within the first nanosecond of landing, it analyzes the surrounding environment, calculates a twelve-dimensional data map of everything within a thousand-mile radius, and then determines which outer shell would blend in best with the environment... and then it disguises itself as a 1963 police telephone box."
 
-![EUROPE](https://fantascienzaitalia.com/wp-content/uploads/2018/11/DOCTOR-WHO-1963-serie-TV.jpg)
+![SS ENTERPRISE](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R6dnd4enJrd2F0Z3BwdmNhNGJpdmlocHc4M295cnRtNXZvbTlyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26zyYdiV4pdZZUWEU/giphy.webp)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyszt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
