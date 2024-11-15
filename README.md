@@ -56,7 +56,7 @@ ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticon
 
 > "It's disguised. It's camouflaged as a 1963 police telephone box. Every time the TARDIS materializes in a new location, within the first nanosecond of landing, it analyzes the surrounding environment, calculates a twelve-dimensional data map of everything within a thousand-mile radius, and then determines which outer shell would blend in best with the environment... and then it disguises itself as a 1963 police telephone box."
 
-![USS DISCOVERY](https://64.media.tumblr.com/de19a7cf5c41ae9538f1739938224cf7/tumblr_ph76d052qN1ur84jj_400.gif)
+![USS DISCOVERY](https://i.pinimg.com/originals/4a/16/64/4a1664f3bfe741d8d2e173d046e5b81b.gif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyszt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
