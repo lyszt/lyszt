@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=610&size=30&pause=1000&color=03fcf0&width=435&lines=PERFER+ET+OBDURA;%E2%80%94+DOLOR+HIC+TIBI+PRODERIT+OLIM.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=610&size=30&pause=1000&color=1cbab2&width=435&lines=PERFER+ET+OBDURA;%E2%80%94+DOLOR+HIC+TIBI+PRODERIT+OLIM.)](https://git.io/typing-svg)
 ---
 **Hello! My name is João Luís. For a few years now, I have been working independently with Web Development, Graphic Design, UI/UX and several other technologies. Through these experiences, I have also deepened my knowledge in SEO Tactics and Marketing Strategies.**
 
