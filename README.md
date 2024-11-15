@@ -50,6 +50,8 @@ Providentia SpySuite | HTML/CSS/JAVASCRIPT + Python + Django + React | Web app c
 Scarlett Gateway | HTML/CSS/JAVASCRIPT + PHP | Web app made to organize my day-to-day life through the use of agendas, automation, reminders and other systems. | ❌ Discontinued. Switched for Lyszt.github.io for blogging and professional reasons, and the daily life functionalities were integrated into Providentia. 
 Kairos Praxis | Python (Kivy) |  Insight offers competitor analysis functionalities through a desktop application. Automated web scraping allows it to collect competitor-related data from various online resources, which can then be analyzed and compared within the tool.  | 🔨 Under development
 ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticons from a beautiful UI. Made to solve my keyboard problems. | ✔️ Finished. (Nothing else to add, I decided to leave for bigger projects)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyszt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -57,7 +59,7 @@ ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticon
 
 > "It's disguised. It's camouflaged as a 1963 police telephone box. Every time the TARDIS materializes in a new location, within the first nanosecond of landing, it analyzes the surrounding environment, calculates a twelve-dimensional data map of everything within a thousand-mile radius, and then determines which outer shell would blend in best with the environment... and then it disguises itself as a 1963 police telephone box."
 
-![USS DISCOVERY](https://i.pinimg.com/originals/4a/16/64/4a1664f3bfe741d8d2e173d046e5b81b.gif)
+![USS DISCOVERY](https://i.pinimg.com/originals/e8/2b/58/e82b5863ec12f26819491a38095bb880.gif)
 
 
 ### Main skills
