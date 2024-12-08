@@ -54,8 +54,7 @@ ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticon
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyszt&langs_count=8)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ## Time continues to flow, and time brings change.
 
 > "It's disguised. It's camouflaged as a 1963 police telephone box. Every time the TARDIS materializes in a new location, within the first nanosecond of landing, it analyzes the surrounding environment, calculates a twelve-dimensional data map of everything within a thousand-mile radius, and then determines which outer shell would blend in best with the environment... and then it disguises itself as a 1963 police telephone box."
