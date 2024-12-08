@@ -54,8 +54,7 @@ ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticon
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyszt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyszt&langs_count=8)
 
 ## Time continues to flow, and time brings change.
 
