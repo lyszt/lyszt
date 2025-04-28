@@ -1,17 +1,10 @@
+![HomeBanner](https://i.imgur.com/yyesY5x.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=610&size=30&pause=1000&color=1cbab2&width=435&lines=PERFER+ET+OBDURA;%E2%80%94+DOLOR+HIC+TIBI+PRODERIT+OLIM.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=610&size=30&pause=1000&color=8578e3&width=435&lines=PERFER+ET+OBDURA;%E2%80%94+DOLOR+HIC+TIBI+PRODERIT+OLIM.)](https://git.io/typing-svg)
 ---
-**Hello! My name is João Luís. For a few years now, I have been working independently with Web Development, Graphic Design, UI/UX and several other technologies. Through these experiences, I have also deepened my knowledge in SEO Tactics and Marketing Strategies.**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://lyszt.github.io) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyszt/)
-![](https://komarev.com/ghpvc/?username=lyszt&style=flat-square)
-
 [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
-![HomeBanner](https://i.imgur.com/yyesY5x.png)
-
-
 ### ❤️ Académie Impériale des Beaux Arts 💙
 ![Snake game commit history](https://raw.githubusercontent.com/lyszt/lyszt/232a49db5a51127efc156a09a2caa7869f7d619e/github-contribution-grid-snake-dark.svg)
 > The [*Imperial Academy*](https://github.com/lyszt/Academie-de-Lyszt) is a repository for various programming experiments and projects and where I save and register the courses I've been doing. 
@@ -36,9 +29,15 @@ While working on my projects, those are my favourites:
   </td>
   <td valign="top" width="50%">
 
-#### 🐧 Be advised:
+#### 
+ ### Technical Degree in Internet Informatics from FIEB and Undergraduate Student in Computer Science at UFFS
 
-Chaque projet, bien qu'il soit ancré dans la programmation, est conçu pour avoir son propre univers et une histoire.
+💻 Experienced in full-stack web development (React, Node.js, Express), UI/UX design, task automation with Python, and applied artificial intelligence. Skilled in working with Linux environments, version control (Git), and modern web technologies (Vite, Tailwind, APIs). Proficient in English and French.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://lyszt.github.io) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyszt/)
+![](https://komarev.com/ghpvc/?username=lyszt&style=flat-square)
+
+
 
   </td>
   </tr>
