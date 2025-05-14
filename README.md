@@ -5,11 +5,10 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
-### ❤️ Académie Impériale des Beaux Arts 💙
-![3d Commit history](![](./profile-3d-contrib/profile-green-animate.svg))
-> The [*Imperial Academy*](https://github.com/lyszt/Academie-de-Lyszt) is a repository for various programming experiments and projects and where I save and register the courses I've been doing. 
 
-### ⚙️ Cérveau-Matrioshka 
+(![3d commit history](./profile-3d-contrib/profile-green-animate.svg)
+
+### ⚙️ Know me
 
 <div class="table-devenvironment">
   <table style="font-size: 11px">
@@ -62,7 +61,8 @@ ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticon
 
 ![USS DISCOVERY](https://i.pinimg.com/originals/e8/2b/58/e82b5863ec12f26819491a38095bb880.gif)
 
-
+### ❤️ Académie Impériale des Beaux Arts 💙
+> The [*Imperial Academy*](https://github.com/lyszt/Academie-de-Lyszt) is a repository for various programming experiments and projects and where I save and register the courses I've been doing. 
 ### Skilled in
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
