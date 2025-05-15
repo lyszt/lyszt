@@ -31,14 +31,14 @@
 <br>
 
 
-Project | Language | Description | Status | 
---- | --- | --- | --- |
-Providentia | Python |  Discord bot built for spying and war. Made with SQL and Python using the module discord.py. Uses panda and matplot for data and statistical analysis. Has commands relating to fun and memes, and also facial recognition of discord attachments. More content is planned to be invented for the bot. | ⬜ Version 3 (Magnata)
-Mestre Sara | Python | My most advanced discord bot, it usually gets updated before Providentia. Providentia then takes the light-weight functionalities and gets updated. | ⬜ Version 2 (Magnata)
+Project | Language | Description |
+--- | --- | --- | 
+Providentia | Python |  Discord bot built for spying and war. Made with SQL and Python using the module discord.py. Uses panda and matplot for data and statistical analysis. Has commands relating to fun and memes, and also facial recognition of discord attachments. More content is planned to be invented for the bot. | 
+Mestre Sara | Python | My most advanced discord bot, it usually gets updated before Providentia. Providentia then takes the light-weight functionalities and gets updated. | 
 Providentia Network |  Python + Flask  | Providentia Network is a server that seamlessly integrates with all my apps. It acts as an intermediary between user input, AI reasoning, and external applications, providing a smooth and responsive experience. With a Flask-powered API, real-time communication with Discord, OpenAI, and Google Gemini, and an intelligent message-processing system, Providentia can reason, respond, and interact across multiple platforms. | Work in progress
-Scarlett Dash 1| React + Vite + Node.js + Express | A modern productivity dashboard designed to organize day-to-day life, featuring real-time weather updates, dynamic link processing, an interactive calendar, and secure user authentication. Integrates with multiple systems like Discord bots and the homepage for a seamless experience. | ⬜  Version 1
-Kairos Praxis | Python (Kivy) | Insight offers competitor analysis functionalities through a desktop application. Automated web scraping allows it to collect competitor-related data from various online resources, which can then be analyzed and compared within the tool.  | 🔨 Under development
-ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticons from a beautiful UI. Made to solve my keyboard problems. | ✔️ Finished. (Nothing else to add, I decided to leave for bigger projects)
+Scarlett Dash 1| React + Vite + Node.js + Express | A modern productivity dashboard designed to organize day-to-day life, featuring real-time weather updates, dynamic link processing, an interactive calendar, and secure user authentication. Integrates with multiple systems like Discord bots and the homepage for a seamless experience. | 
+Kairos Praxis | Python (Kivy) | Insight offers competitor analysis functionalities through a desktop application. Automated web scraping allows it to collect competitor-related data from various online resources, which can then be analyzed and compared within the tool.  | 
+ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticons from a beautiful UI. Made to solve my keyboard problems. |
 
 <br><br>
 
