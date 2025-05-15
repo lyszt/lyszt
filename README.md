@@ -1,14 +1,21 @@
 ![HomeBanner](https://i.imgur.com/kdqWiQb.png)
+<br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=610&size=30&pause=1000&color=03fce8&width=435&lines=PERFER+ET+OBDURA;%E2%80%94+DOLOR+HIC+TIBI+PRODERIT+OLIM.)](https://git.io/typing-svg)
----
-[![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Mais+est-ce+important+de+nous+d%C3%A9finir%3F)](https://git.io/typing-svg)
+
+<p>
+     I am a web and software developer and designer who enjoys creating avant-garde interactive tools and interfaces. Interested in modernism, minimalism, computational graphics, machine-learning and language-learning. For several years, I have been working independently as a freelance web developer and graphic designer, specializing in user-centric design (UI/UX) and complex software development. I am fluent in French, English, and Portuguese. Whether you're based in Paris, New York, São Paulo, or anywhere else in the world, I'm ready to bring your ideas to life—regardless of language or location. If you're looking to hire a versatile and adaptable professional, feel free to reach out. Let's get started on your next project today.
+</p>
+<br>
+
+ [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
 
+<br><br>
+
 ![3d commit history](./profile-3d-contrib/profile-green-animate.svg)
 
-### ⚙️ Know me
 
 <div class="table-devenvironment">
   <table style="font-size: 11px">
@@ -59,7 +66,6 @@ ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticon
 
 > "It's disguised. It's camouflaged as a 1963 police telephone box. Every time the TARDIS materializes in a new location, within the first nanosecond of landing, it analyzes the surrounding environment, calculates a twelve-dimensional data map of everything within a thousand-mile radius, and then determines which outer shell would blend in best with the environment... and then it disguises itself as a 1963 police telephone box."
 
-![USS DISCOVERY](https://i.pinimg.com/originals/e8/2b/58/e82b5863ec12f26819491a38095bb880.gif)
 
 ### ❤️ Académie Impériale des Beaux Arts 💙
 > The [*Imperial Academy*](https://github.com/lyszt/Academie-de-Lyszt) is a repository for various programming experiments and projects and where I save and register the courses I've been doing. 
