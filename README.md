@@ -59,6 +59,16 @@ While working on my projects, those are my favourites:
 
 <br><br>
 
+[![Providentia Magnata](https://github-readme-stats.vercel.app/api/pin/?username=lyszt&repo=ProvidentiaMagnata)](https://github.com/lyszt/ProvidentiaMagnata)
+[![Providentia Network](https://github-readme-stats.vercel.app/api/pin/?username=lyszt&repo=providentia-network)](https://github.com/lyszt/providentia-network)
+[![Kairos Praxis](https://github-readme-stats.vercel.app/api/pin/?username=lyszt&repo=Kairos-Praxis)](https://github.com/lyszt/Kairos-Praxis)
+[![Scarlett Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=lyszt&repo=scarlett-dash)](https://github.com/lyszt/scarlett-dash)
+[![LYSZT Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=lyszt&repo=lyszt.github.io)](https://github.com/lyszt/lyszt.github.io)
+[![ToadKeep](https://github-readme-stats.vercel.app/api/pin/?username=lyszt&repo=ToadKeep)](https://github.com/lyszt/ToadKeep)
+
+<br><br>
+
+
 Project | Language | Description | Status | 
 --- | --- | --- | --- |
 Providentia | Python |  Discord bot built for spying and war. Made with SQL and Python using the module discord.py. Uses panda and matplot for data and statistical analysis. Has commands relating to fun and memes, and also facial recognition of discord attachments. More content is planned to be invented for the bot. | ⬜ Version 3 (Magnata)
