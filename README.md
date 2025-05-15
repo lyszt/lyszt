@@ -1,4 +1,4 @@
-![HomeBanner](https://i.imgur.com/gqGj6pw.png)
+![HomeBanner](https://i.imgur.com/kdqWiQb.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=610&size=30&pause=1000&color=03fce8&width=435&lines=PERFER+ET+OBDURA;%E2%80%94+DOLOR+HIC+TIBI+PRODERIT+OLIM.)](https://git.io/typing-svg)
 ---
