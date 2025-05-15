@@ -40,8 +40,9 @@ While working on my projects, those are my favourites:
 
 💻 Experienced in full-stack web development (React, Node.js, Express), UI/UX design, task automation with Python, and applied artificial intelligence. Skilled in working with Linux environments, version control (Git), and modern web technologies (Vite, Tailwind, APIs). Proficient in English and French.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://lyszt.github.io) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyszt/)
-![](https://komarev.com/ghpvc/?username=lyszt&style=flat-square)
+<a href="https://lyszt.net"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyszt/)
+<img src="https://komarev.com/ghpvc/?username=lyszt&style=flat-square" width="150">
 
 
 
