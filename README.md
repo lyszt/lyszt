@@ -2,9 +2,6 @@
 <br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Mais+est-ce+important+de+nous+d%C3%A9finir%3F)](https://git.io/typing-svg)
-
- ### Technical Degree in Internet Informatics from FIEB and Undergraduate Student in Computer Science at UFFS
-
 <p>
      I am a web and software developer and designer who enjoys creating interactive tools and interfaces. Interested in modernism, minimalism, computational graphics, machine-learning and language-learning. For several years, I have been working independently as a freelance web developer and graphic designer, specializing in user-centric design (UI/UX) and software development. I am fluent in French, English, and Portuguese.
 </p>
