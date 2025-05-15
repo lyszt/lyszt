@@ -51,6 +51,14 @@ While working on my projects, those are my favourites:
   </table>
 </div>
 
+## Time continues to flow, and time brings change.
+
+<br><br>
+
+> "It's disguised. It's camouflaged as a 1963 police telephone box. Every time the TARDIS materializes in a new location, within the first nanosecond of landing, it analyzes the surrounding environment, calculates a twelve-dimensional data map of everything within a thousand-mile radius, and then determines which outer shell would blend in best with the environment... and then it disguises itself as a 1963 police telephone box."
+
+<br><br>
+
 Project | Language | Description | Status | 
 --- | --- | --- | --- |
 Providentia | Python |  Discord bot built for spying and war. Made with SQL and Python using the module discord.py. Uses panda and matplot for data and statistical analysis. Has commands relating to fun and memes, and also facial recognition of discord attachments. More content is planned to be invented for the bot. | ⬜ Version 3 (Magnata)
@@ -60,13 +68,12 @@ Scarlett Dash 1| React + Vite + Node.js + Express | A modern productivity dashbo
 Kairos Praxis | Python (Kivy) | Insight offers competitor analysis functionalities through a desktop application. Automated web scraping allows it to collect competitor-related data from various online resources, which can then be analyzed and compared within the tool.  | 🔨 Under development
 ToadKeep | Python |  Virtual keyboard where you can copy characters and emoticons from a beautiful UI. Made to solve my keyboard problems. | ✔️ Finished. (Nothing else to add, I decided to leave for bigger projects)
 
+<br><br>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-## Time continues to flow, and time brings change.
 
-> "It's disguised. It's camouflaged as a 1963 police telephone box. Every time the TARDIS materializes in a new location, within the first nanosecond of landing, it analyzes the surrounding environment, calculates a twelve-dimensional data map of everything within a thousand-mile radius, and then determines which outer shell would blend in best with the environment... and then it disguises itself as a 1963 police telephone box."
-
+<br><br>
 
 ### ❤️ Académie Impériale des Beaux Arts 💙
 > The [*Imperial Academy*](https://github.com/lyszt/Academie-de-Lyszt) is a repository for various programming experiments and projects and where I save and register the courses I've been doing. 
