@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Mais+est-ce+important+de+nous+d%C3%A9finir%3F)](https://git.io/typing-svg)
 
+ ### Technical Degree in Internet Informatics from FIEB and Undergraduate Student in Computer Science at UFFS
+
 <p>
      I am a web and software developer and designer who enjoys creating interactive tools and interfaces. Interested in modernism, minimalism, computational graphics, machine-learning and language-learning. For several years, I have been working independently as a freelance web developer and graphic designer, specializing in user-centric design (UI/UX) and software development. I am fluent in French, English, and Portuguese.
 </p>
@@ -17,39 +19,9 @@
 ![3d commit history](./profile-3d-contrib/profile-green-animate.svg)
 
 
-<div class="table-devenvironment">
-  <table style="font-size: 11px">
-  <tr>
-  <td valign="top" width="50%">
-
-#### 🖥️ Tools 
-
-While working on my projects, those are my favourites:
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-  </td>
-  <td valign="top" width="50%">
-
-#### 
- ### Technical Degree in Internet Informatics from FIEB and Undergraduate Student in Computer Science at UFFS
-
-💻 Experienced in full-stack web development (React, Node.js, Express), UI/UX design, task automation with Python, and applied artificial intelligence. Skilled in working with Linux environments, version control (Git), and modern web technologies (Vite, Tailwind, APIs). Proficient in English and French.
-
 <a href="https://lyszt.net"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyszt/)
 <img src="https://komarev.com/ghpvc/?username=lyszt&style=flat-square" width="150">
-
-
-
-  </td>
-  </tr>
-  </table>
-</div>
 
 ## Time continues to flow, and time brings change.
 
@@ -57,16 +29,9 @@ While working on my projects, those are my favourites:
 
 > "It's disguised. It's camouflaged as a 1963 police telephone box. Every time the TARDIS materializes in a new location, within the first nanosecond of landing, it analyzes the surrounding environment, calculates a twelve-dimensional data map of everything within a thousand-mile radius, and then determines which outer shell would blend in best with the environment... and then it disguises itself as a 1963 police telephone box."
 
-<br><br>
+<br>
 
-[![Providentia Magnata](https://github-readme-stats.vercel.app/api/pin/?username=lyszt&repo=ProvidentiaMagnata)](https://github.com/lyszt/ProvidentiaMagnata)
-[![Providentia Network](https://github-readme-stats.vercel.app/api/pin/?username=lyszt&repo=providentia-network)](https://github.com/lyszt/providentia-network)
-[![Kairos Praxis](https://github-readme-stats.vercel.app/api/pin/?username=lyszt&repo=Kairos-Praxis)](https://github.com/lyszt/Kairos-Praxis)
-[![Scarlett Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=lyszt&repo=scarlett-dash)](https://github.com/lyszt/scarlett-dash)
-[![LYSZT Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=lyszt&repo=lyszt.github.io)](https://github.com/lyszt/lyszt.github.io)
-[![ToadKeep](https://github-readme-stats.vercel.app/api/pin/?username=lyszt&repo=ToadKeep)](https://github.com/lyszt/ToadKeep)
-
-<br><br>
+<br>
 
 
 Project | Language | Description | Status | 
