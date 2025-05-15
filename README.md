@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Mais+est-ce+important+de+nous+d%C3%A9finir%3F)](https://git.io/typing-svg)
 
 <p>
-     I am a web and software developer and designer who enjoys creating avant-garde interactive tools and interfaces. Interested in modernism, minimalism, computational graphics, machine-learning and language-learning. For several years, I have been working independently as a freelance web developer and graphic designer, specializing in user-centric design (UI/UX) and complex software development. I am fluent in French, English, and Portuguese. Whether you're based in Paris, New York, São Paulo, or anywhere else in the world, I'm ready to bring your ideas to life—regardless of language or location. If you're looking to hire a versatile and adaptable professional, feel free to reach out. Let's get started on your next project today.
+     I am a web and software developer and designer who enjoys creating interactive tools and interfaces. Interested in modernism, minimalism, computational graphics, machine-learning and language-learning. For several years, I have been working independently as a freelance web developer and graphic designer, specializing in user-centric design (UI/UX) and software development. I am fluent in French, English, and Portuguese.
 </p>
 <br>
 
