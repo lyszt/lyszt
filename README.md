@@ -39,7 +39,7 @@ Project | Language | Description
 | Providentia Satelles | JavaScript, HTML, CSS | Browser extension for Chromium that connects to the Providentia network and acts as a personal assistant in real time. |
 | Scarlett Dash 1| React + Vite + Node.js + Express | A modern productivity dashboard designed to organize day-to-day life, featuring real-time weather updates, dynamic link processing, an interactive calendar, and secure user authentication. Integrates with multiple systems like Discord bots and the homepage for a seamless experience. |
 | Scarlett Citadel | React + Vite | A dynamic portfolio website, the remade version of my personal site. Built with Vite and deployed as a static site.|
-| Kairos Praxis | Python (Kivy) | Insight offers competitor analysis functionalities through a desktop application. Automated web scraping allows it to collect competitor-related data from various online resources, which can then be analyzed and compared within the tool. |
+| Kairos Insight 3 | React, Django, Tailwind, Vite | Insight offers competitor analysis functionalities through a web application. Automated web scraping allows it to collect competitor-related data from various online resources, which can then be analyzed and compared within the tool. Soon to be monetizable via API and interface. Repository became private. |
 | ToadKeep | Python | Virtual keyboard where you can copy characters and emoticons from a beautiful UI. Made to solve my keyboard problems. |
 
 <br><br>
