@@ -44,7 +44,7 @@ Project | Language | Description
 
 <br><br>
 
-<img width="1086" height="800" alt="Evolution Graph of my Tech" src="https://github.com/user-attachments/assets/157764cc-6425-4e3c-a025-fddf2577cee2" />
+<img width="2840" height="2094" alt="Tech Evolution tree" src="https://github.com/user-attachments/assets/871155c1-1829-4f59-87e5-f7c57f68f5c9" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
@@ -100,6 +100,7 @@ Project | Language | Description
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
 
 
 
