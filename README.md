@@ -34,7 +34,7 @@
 Project | Language | Description
 |---|---|---|
 | Providentia | Python | Discord bot built for spying and war. Made with SQL and Python using the module discord.py. Uses panda and matplot for data and statistical analysis. Has commands relating to fun and memes, and also facial recognition of discord attachments. More content is planned to be invented for the bot. |
-| Mestre Sara | Python | A modular and rewritten Discord bot using modern discord.py features like slash commands. It features advanced conversational AI by leveraging both Google Gemini and OpenAI for context-aware responses and interactions. Includes functionalities for data collection and mathematical 2D/3D function graphing. Manages its own SQLite databases via the PeeWee ORM. |
+| Clairemont | Python | A modular and rewritten Discord bot using modern discord.py features like slash commands. It features advanced conversational AI by leveraging both Google Gemini and OpenAI for context-aware responses and interactions. Includes functionalities for data collection and mathematical 2D/3D function graphing. Manages its own SQLite databases via the PeeWee ORM. |
 | Providentia Network | Python + Flask | A central server application that integrates multiple services. It runs a Flask API, a Telegram bot, and connects to Discord, OpenAI, and Google Gemini. It uses multiprocessing to handle concurrent operations and acts as the main hub for all Providentia-related apps. |
 | Providentia Satelles | JavaScript, HTML, CSS | Browser extension for Chromium that connects to the Providentia network and acts as a personal assistant in real time. |
 | Scarlett Dash 1| React + Vite + Node.js + Express | A modern productivity dashboard designed to organize day-to-day life, featuring real-time weather updates, dynamic link processing, an interactive calendar, and secure user authentication. Integrates with multiple systems like Discord bots and the homepage for a seamless experience. |
@@ -100,6 +100,7 @@ Project | Language | Description
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
 
 
 
