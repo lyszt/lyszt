@@ -30,7 +30,9 @@
 
 <br>
 
-> 📊 **[View all projects in a visual table format](github_projects_table.html)** - Automatically generated and updated daily!
+> 📊 **All projects in a visual table format** - Automatically generated and updated daily!
+
+![GitHub Projects Table](github_projects_table.png)
 
 **Ongoing personal projects**
 Project | Language | Description
