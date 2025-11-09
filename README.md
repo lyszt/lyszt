@@ -61,6 +61,8 @@ Project | Language | Description
 | Providentia Network | Python + Flask | A central server application that integrates multiple services. It runs a Flask API, a Telegram bot, and connects to Discord, OpenAI, and Google Gemini. Replaced by PROVIDENCE. |
 
 **College projects**
+Project | Language | Description
+|---|---|---|
 | Praestitia | JavaScript | Integrative project for the courses Programming 2, Databases, and Software Engineering. Tool for marketing process integration and automation. |
 | Workonomia | Java | Economic management simulator developed in Java with Swing library, focused on resource management and systems optimization. |
 | Mancala | Assembly | Mancala board game implementation - a family of two-player turn-based strategy board games. The objective is to capture all or some set of the opponent's pieces. |
@@ -123,6 +125,7 @@ Project | Language | Description
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
 
 
 
