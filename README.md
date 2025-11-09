@@ -26,6 +26,9 @@
 
 > "It's disguised. It's camouflaged as a 1963 police telephone box. Every time the TARDIS materializes in a new location, within the first nanosecond of landing, it analyzes the surrounding environment, calculates a twelve-dimensional data map of everything within a thousand-mile radius, and then determines which outer shell would blend in best with the environment... and then it disguises itself as a 1963 police telephone box."
 
+
+<img width="2840" height="2094" alt="Tech Evolution tree" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRkZHczNDhoNngycWh2a2lkdDMzYTRwamdmazhlZmN1ejc4MWZ0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZcuSPREmltpq0prdLr/giphy.gif" />
+
 <br>
 
 <br>
@@ -36,8 +39,6 @@
 
 ![GitHub Projects Table](github_projects_table.png)
 <br><br>
-
-<img width="2840" height="2094" alt="Tech Evolution tree" src="https://github.com/user-attachments/assets/871155c1-1829-4f59-87e5-f7c57f68f5c9" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
@@ -93,6 +94,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
 
 
 
