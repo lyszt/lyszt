@@ -1,1 +1,2 @@
-# No external dependencies needed - using only Python standard library
+# No external Python dependencies needed - using only Python standard library
+# wkhtmltoimage is installed via apt-get in the GitHub Actions workflow

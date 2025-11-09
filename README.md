@@ -30,49 +30,11 @@
 
 <br>
 
-> 📊 **[View all projects in a visual table format](github_projects_table.html)** - Automatically generated and updated daily!
+## 📊 Projects Overview
 
-**Ongoing personal projects**
-Project | Language | Description
-|---|---|---|
-| Clairemont | Python | A modular and rewritten Discord bot using modern discord.py features like slash commands. It features advanced conversational AI by leveraging both Google Gemini and OpenAI for context-aware responses and interactions. Includes functionalities for data collection and mathematical 2D/3D function graphing. Manages its own SQLite databases via the PeeWee ORM. |
-| PROVIDENCE | Python | Refactored Providentia Network - an enhanced central server application integrating multiple services with improved architecture and functionality. |
-| Providentia Satelles | JavaScript, HTML, CSS | Browser extension for Chromium that connects to the Providentia network and acts as a personal assistant in real time. |
-| Providentia Access | Java | Password and Authentication Manager for the Providentia ecosystem, providing secure credential management. |
-| Ryujinni | Elixir | The Elixir version of the Clairemont bot from Discord, powered by the Providence Network. |
-| Scarlett Citadel | React + Vite | A dynamic portfolio website, the remade version of my personal site. Built with Vite and deployed as a static site.|
-| FSMadame-De-Pompadour | Python + Flask + React | Social simulation and story generator that creates sci-fi narratives based on Star Trek. OOP Python/Flask backend with Gemini API integration, React/Vite/Tailwind frontend. |
-| Kairos Insight 3 | React, Django, Tailwind, Vite | Insight offers competitor analysis functionalities through a web application. Automated web scraping allows it to collect competitor-related data from various online resources, which can then be analyzed and compared within the tool. Soon to be monetizable via API and interface. Repository became private. |
-| Talleyrand | C++ | .config Linux configuration manager built in C++. |
+> **All projects in a visual table format** - Automatically generated and updated daily!
 
-<br>
-
-**Finished projects**
-Project | Language | Description
-|---|---|---|
-| Providentia | Python | Discord bot built for spying and war. Made with SQL and Python using the module discord.py. Uses panda and matplot for data and statistical analysis. Has commands relating to fun and memes, and also facial recognition of discord attachments. Replaced by Clairemont and PROVIDENCE. |
-| Scarlett Dash 1| React + Vite + Node.js + Express | A modern productivity dashboard designed to organize day-to-day life, featuring real-time weather updates, dynamic link processing, an interactive calendar, and secure user authentication. Replaced by Scarlett Citadel. |
-| ToadKeep | Python | Virtual keyboard where you can copy characters and emoticons from a beautiful UI. Made to solve my keyboard problems. |
-
-<br>
-
-**Abandoned projects**
-Project | Language | Description
-|---|---|---|
-| Providentia Network | Python + Flask | A central server application that integrates multiple services. It runs a Flask API, a Telegram bot, and connects to Discord, OpenAI, and Google Gemini. Replaced by PROVIDENCE. |
-
-**College projects**
-Project | Language | Description
-|---|---|---|
-| Praestitia | JavaScript | Integrative project for the courses Programming 2, Databases, and Software Engineering. Tool for marketing process integration and automation. |
-| Workonomia | Java | Economic management simulator developed in Java with Swing library, focused on resource management and systems optimization. |
-| Mancala | Assembly | Mancala board game implementation - a family of two-player turn-based strategy board games. The objective is to capture all or some set of the opponent's pieces. |
-
-**Experiments**
-Project | Language | Description
-|---|---|---|
-| Drone-RL | Python | PyFlyt and Gymnasium to train a reinforcement learning agent to control a UAV. The agent's goal is to learn the correct flight path and release timing to drop objects onto a designated ground target. |
-| Infantaria | Elixir |OpenGL study.|
+![GitHub Projects Table](github_projects_table.png)
 <br><br>
 
 <img width="2840" height="2094" alt="Tech Evolution tree" src="https://github.com/user-attachments/assets/871155c1-1829-4f59-87e5-f7c57f68f5c9" />
