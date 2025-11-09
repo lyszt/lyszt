@@ -41,7 +41,7 @@ Project | Language | Description
 | Scarlett Citadel | React + Vite | A dynamic portfolio website, the remade version of my personal site. Built with Vite and deployed as a static site.|
 | FSMadame-De-Pompadour | Python + Flask + React | Social simulation and story generator that creates sci-fi narratives based on Star Trek. OOP Python/Flask backend with Gemini API integration, React/Vite/Tailwind frontend. |
 | Kairos Insight 3 | React, Django, Tailwind, Vite | Insight offers competitor analysis functionalities through a web application. Automated web scraping allows it to collect competitor-related data from various online resources, which can then be analyzed and compared within the tool. Soon to be monetizable via API and interface. Repository became private. |
-| Drone-RL | Python | PyFlyt and Gymnasium to train a reinforcement learning agent to control a UAV. The agent's goal is to learn the correct flight path and release timing to drop objects onto a designated ground target. |
+
 | Talleyrand | C++ | .config Linux configuration manager built in C++. |
 
 <br>
@@ -49,7 +49,7 @@ Project | Language | Description
 **Finished projects**
 Project | Language | Description
 |---|---|---|
-| Providentia | Python | Discord bot built for spying and war. Made with SQL and Python using the module discord.py. Uses panda and matplot for data and statistical analysis. Has commands relating to fun and memes, and also facial recognition of discord attachments. |
+| Providentia | Python | Discord bot built for spying and war. Made with SQL and Python using the module discord.py. Uses panda and matplot for data and statistical analysis. Has commands relating to fun and memes, and also facial recognition of discord attachments. Replaced by Clairemont and PROVIDENCE. |
 | Scarlett Dash 1| React + Vite + Node.js + Express | A modern productivity dashboard designed to organize day-to-day life, featuring real-time weather updates, dynamic link processing, an interactive calendar, and secure user authentication. Replaced by Scarlett Citadel. |
 | ToadKeep | Python | Virtual keyboard where you can copy characters and emoticons from a beautiful UI. Made to solve my keyboard problems. |
 
@@ -67,6 +67,11 @@ Project | Language | Description
 | Workonomia | Java | Economic management simulator developed in Java with Swing library, focused on resource management and systems optimization. |
 | Mancala | Assembly | Mancala board game implementation - a family of two-player turn-based strategy board games. The objective is to capture all or some set of the opponent's pieces. |
 
+**Experiments**
+Project | Language | Description
+|---|---|---|
+| Drone-RL | Python | PyFlyt and Gymnasium to train a reinforcement learning agent to control a UAV. The agent's goal is to learn the correct flight path and release timing to drop objects onto a designated ground target. |
+| Infantaria | Elixir |OpenGL study.|
 <br><br>
 
 <img width="2840" height="2094" alt="Tech Evolution tree" src="https://github.com/user-attachments/assets/871155c1-1829-4f59-87e5-f7c57f68f5c9" />
@@ -125,6 +130,7 @@ Project | Language | Description
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
 
 
 
