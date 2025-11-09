@@ -41,7 +41,6 @@ Project | Language | Description
 | Scarlett Citadel | React + Vite | A dynamic portfolio website, the remade version of my personal site. Built with Vite and deployed as a static site.|
 | FSMadame-De-Pompadour | Python + Flask + React | Social simulation and story generator that creates sci-fi narratives based on Star Trek. OOP Python/Flask backend with Gemini API integration, React/Vite/Tailwind frontend. |
 | Kairos Insight 3 | React, Django, Tailwind, Vite | Insight offers competitor analysis functionalities through a web application. Automated web scraping allows it to collect competitor-related data from various online resources, which can then be analyzed and compared within the tool. Soon to be monetizable via API and interface. Repository became private. |
-
 | Talleyrand | C++ | .config Linux configuration manager built in C++. |
 
 <br>
@@ -130,6 +129,7 @@ Project | Language | Description
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
 
 
 
