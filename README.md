@@ -35,7 +35,7 @@
 
 ## 📊 Projects Overview
 
-> **All projects in a visual table format** - Automatically generated and updated daily!
+Work in progress. See IRIS.
 
 ![GitHub Projects Table](github_projects_table.png)
 <br><br>
@@ -94,6 +94,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
 
 
 
