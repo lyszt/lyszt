@@ -26,7 +26,6 @@
 
 > "It's disguised. It's camouflaged as a 1963 police telephone box. Every time the TARDIS materializes in a new location, within the first nanosecond of landing, it analyzes the surrounding environment, calculates a twelve-dimensional data map of everything within a thousand-mile radius, and then determines which outer shell would blend in best with the environment... and then it disguises itself as a 1963 police telephone box."
 
-
 <img width="2840" height="2094" alt="Tech Evolution tree" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRkZHczNDhoNngycWh2a2lkdDMzYTRwamdmazhlZmN1ejc4MWZ0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZcuSPREmltpq0prdLr/giphy.gif" />
 
 <br>
@@ -35,36 +34,75 @@
 
 ## 📊 Projects Overview
 
-Work in progress. See IRIS.
+### Core projects
 
-![GitHub Projects Table](github_projects_table.png)
+- [capitalisme-automatique_core](https://github.com/lyszt/capitalisme-automatique_core): Sequel to a java society simulator made during a Java class, but in Python
+
+- [clairemont_core](https://github.com/lyszt/clairemont_core): 
+
+- [dannazione-di-provvidenza_core](https://github.com/lyszt/dannazione-di-provvidenza_core): Dannazione di Providenza is an AI-powered language learning assistant with OCR capabilities, translation services, and a Firefox browser extension.
+
+- [french-ship-madame-de-pompadour_core](https://github.com/lyszt/french-ship-madame-de-pompadour_core): Social simulation and story generator that creates sci-fi narratives based on Star Trek. OOP Python/Flask with some data structures, Gemini API, React/Vite/Tailwind frontend.
+
+- [iris-client_core](https://github.com/lyszt/iris-client_core): 
+
+- [kyrie_core](https://github.com/lyszt/kyrie_core): 
+
+- [providence_core](https://github.com/lyszt/providence_core): Refactored Providentia Network.
+
+- [providentia-access_core](https://github.com/lyszt/providentia-access_core): Providentia's Password and Authentication Manager.
+
+- [providentia-magnata_core](https://github.com/lyszt/providentia-magnata_core): Providence is a Discord bot designed to analyze user messages, manage user data, and enhance engagement through language translation and sentiment analysis.
+
+- [ryujinni_core](https://github.com/lyszt/ryujinni_core): The Elixir version of the Clairemont bot from Discord, powered by the Providence Network (Providentia).
+
+- [scarlett-citadel_core](https://github.com/lyszt/scarlett-citadel_core): The Scarlett Citadel. The remade version of my personal website compiled using vite into a static website. Switched for Tesserae, in fact.
+
+- [talleyrand_core](https://github.com/lyszt/talleyrand_core): .config Linux configuration manager built in C++. 
+
+- [tesserae_core](https://github.com/lyszt/tesserae_core): 
+
+### Education projects
+
+- [trabalho-ed2_edu](https://github.com/lyszt/trabalho-ed2_edu): 
+
+- [workonomia_edu](https://github.com/lyszt/workonomia_edu): Workonomia is an economic management simulator developed in Java using the Swing library, focused on resource management and system optimization.
+
+### Legacy projects
+
+- [kairos-praxis_legacy](https://github.com/lyszt/kairos-praxis_legacy): Kairos Praxis (Insight 2) offers competitor analysis functionalities through a desktop application. Automated web scraping allows it to collect competitor-related data from various online resources, which can then be analyzed and compared within the tool.
+
+- [providentia-cataclyst_legacy](https://github.com/lyszt/providentia-cataclyst_legacy): Cataclyst, the successor to the original Providentia bot, was born from the crucible of war. Providentia Type C is a relentless machine of destruction. This relentless automaton not only defends the empire but actively seeks out and obliterates its enemies. 
+
+- [providentia-network_legacy](https://github.com/lyszt/providentia-network_legacy): Providentia Network: A Django-powered backend with a persistent database, simultaneously running Discord and Telegram bots. Integrates with external services like Google and university academic systems for advanced reasoning and actions.
+
+- [providentia-type-d_legacy](https://github.com/lyszt/providentia-type-d_legacy): Providentia - Type D is a sophisticated Discord bot developed by the visionary minds of the Kaisaran Empire. Originally designed as a military weapon for strategic operations, this bot has undergone a transformation, evolving into a versatile automation tool and a trusted guardian for server security.
+
+- [scarlett-dash_legacy](https://github.com/lyszt/scarlett-dash_legacy): Personal dashboard.
+
+- [scarlett-gateway_legacy](https://github.com/lyszt/scarlett-gateway_legacy): 
+
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyszt&layout=compact)
 
 <br><br>
 
 ### ❤️ Académie Impériale des Beaux Arts 💙
-> The [*Imperial Academy*](https://github.com/lyszt/Academie-de-Lyszt) is a repository for various programming experiments and projects and where I save and register the courses I've been doing. 
+> The [*Imperial Academy*](https://github.com/lyszt/Academie-de-Lyszt) is a repository for various programming experiments and projects and where I save and register the courses I've been doing.
 ### Skilled in
 
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00000F?style=for-the-badge&logo=C&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TeX](https://img.shields.io/badge/TeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Also proficient in
 
@@ -94,17 +132,3 @@ Work in progress. See IRIS.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
