@@ -36,8 +36,6 @@
 
 ### Core projects
 
-- [autoresume_core](https://github.com/lyszt/autoresume_core): 
-
 - [capitalisme-automatique_core](https://github.com/lyszt/capitalisme-automatique_core): Sequel to a java society simulator made during a Java class, but in Python
 
 - [clairemont_core](https://github.com/lyszt/clairemont_core): 
