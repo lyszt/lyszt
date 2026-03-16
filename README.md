@@ -42,13 +42,15 @@
 
 - [dannazione-di-provvidenza_core](https://github.com/lyszt/dannazione-di-provvidenza_core): Dannazione di Providenza is an AI-powered language learning assistant with OCR capabilities, translation services, and a Firefox browser extension.
 
-- [fleur-de-lys_core](https://github.com/lyszt/fleur-de-lys_core): Linux operating system based on Linux from Scratch (LFS).
+- [extremis_core](https://github.com/lyszt/extremis_core): RPG Adventure written in RISC-V Assembly
+
+- [fleur-de-lys_core](https://github.com/lyszt/fleur-de-lys_core): Linux distribution.
 
 - [french-ship-madame-de-pompadour_core](https://github.com/lyszt/french-ship-madame-de-pompadour_core): Social simulation and story generator that creates sci-fi narratives based on Star Trek. OOP Python/Flask with some data structures, Gemini API, React/Vite/Tailwind frontend.
 
 - [hedysarum_core](https://github.com/lyszt/hedysarum_core): Package manager for Fleur de Lys. 
 
-- [iris-client_core](https://github.com/lyszt/iris-client_core): Terminal User Interface made for the IRIS project manager project.
+- [iris-client_core](https://github.com/lyszt/iris-client_core): Iris is a systems-level utility built in C for project management. It abstracts shell and implements a macro execution engine.
 
 - [kyrie_core](https://github.com/lyszt/kyrie_core): 
 
