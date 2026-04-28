@@ -1,8 +1,7 @@
 ![HomeBanner](https://i.imgur.com/kdqWiQb.png)
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F7F7F7&width=435&lines=Pourquoi+la+lune+est-elle+si+loin+de+la+terre%3F)](https://git.io/typing-svg)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F7F7F7&width=435&lines=Pourquoi+la+lune+est-elle+si+loin+de+la+terre%3F)
 <p>
      I am a web and software developer and designer who enjoys creating interactive tools and interfaces. Interested in modernism, minimalism, computational graphics, machine-learning and language-learning. For several years, I have been working independently as a freelance web developer and graphic designer, specializing in user-centric design (UI/UX) and software development. I am fluent in French, English, and Portuguese.
 </p>
@@ -55,6 +54,8 @@
 
 - [kyrie_core](https://github.com/lyszt/kyrie_core): 
 
+- [lyszt_tesserae_core](https://github.com/lyszt/lyszt_tesserae_core): Fork of Tesserae to use as portfolio website.
+
 - [providence_core](https://github.com/lyszt/providence_core): Refactored Providentia Network.
 
 - [providentia-access_core](https://github.com/lyszt/providentia-access_core): Providentia's Password and Authentication Manager.
@@ -67,11 +68,17 @@
 
 - [talleyrand_core](https://github.com/lyszt/talleyrand_core): .config Linux configuration manager built in C++. 
 
-- [tesserae_core](https://github.com/lyszt/tesserae_core): Cat-based rethought lyszt.github.io with a server for community engagement.
+- [the-repositorium_core](https://github.com/lyszt/the-repositorium_core): Github Pages Dev Diary and documentation for my projects. 
+
+- [undertale-in-extremis_core](https://github.com/lyszt/undertale-in-extremis_core): Project for Computer Organization (Organização de Computadores). Undertale-like Assembly Risc-V RPG battle simulator. 
 
 ### Education projects
 
-- [trabalho-ed2_edu](https://github.com/lyszt/trabalho-ed2_edu): 
+- [data-structures-2_edu](https://github.com/lyszt/data-structures-2_edu): Academic project for Data Structures II. Benchmarks five sorting algorithms in C across multiple input sizes, then generates performance charts via Python/matplotlib.
+
+- [praestitia_edu](https://github.com/lyszt/praestitia_edu): Integrative project for the courses Programming 2, Databases, and Software Engineering. Tool for marketing process integration and automation.
+
+- [the-electronics-project_edu](https://github.com/lyszt/the-electronics-project_edu): Revisiting electronics concepts and trying to make a processor. A study repository. The goal is to learn PCB design and digital circuits. Verilog, Arduino, ESP32 and Raspberry PI. 
 
 - [workonomia_edu](https://github.com/lyszt/workonomia_edu): Workonomia is an economic management simulator developed in Java using the Swing library, focused on resource management and system optimization.
 
