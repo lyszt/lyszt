@@ -36,6 +36,8 @@
 
 ### Core projects
 
+- [alisa-v-zadzerkalli_core](https://github.com/lyszt/alisa-v-zadzerkalli_core): Alisa v Zadzerkalli - a Discord bot written in C++
+
 - [capitalisme-automatique_core](https://github.com/lyszt/capitalisme-automatique_core): Sequel to a java society simulator made during a Java class, but in Python
 
 - [clairemont_core](https://github.com/lyszt/clairemont_core): 
@@ -44,23 +46,21 @@
 
 - [extremis_core](https://github.com/lyszt/extremis_core): RPG Adventure written in RISC-V Assembly
 
-- [fleur-de-lys_core](https://github.com/lyszt/fleur-de-lys_core): Linux distribution.
+- [fleur-de-lys_core](https://github.com/lyszt/fleur-de-lys_core): 
 
 - [french-ship-madame-de-pompadour_core](https://github.com/lyszt/french-ship-madame-de-pompadour_core): Social simulation and story generator that creates sci-fi narratives based on Star Trek. OOP Python/Flask with some data structures, Gemini API, React/Vite/Tailwind frontend.
 
 - [hedysarum_core](https://github.com/lyszt/hedysarum_core): Package manager for Fleur de Lys. 
 
-- [iris-client_core](https://github.com/lyszt/iris-client_core): Iris is a systems-level utility built in C for project management. It abstracts shell and implements a macro execution engine.
-
-- [kyrie_core](https://github.com/lyszt/kyrie_core): 
-
-- [lyszt_tesserae_core](https://github.com/lyszt/lyszt_tesserae_core): Fork of Tesserae to use as portfolio website.
+- [lys-entertainment-system_core](https://github.com/lyszt/lys-entertainment-system_core): Weird mock of a console system made with Arduino/ESP8266 
 
 - [providence_core](https://github.com/lyszt/providence_core): Refactored Providentia Network.
 
 - [providentia-access_core](https://github.com/lyszt/providentia-access_core): Providentia's Password and Authentication Manager.
 
 - [providentia-magnata_core](https://github.com/lyszt/providentia-magnata_core): Providence is a Discord bot designed to analyze user messages, manage user data, and enhance engagement through language translation and sentiment analysis.
+
+- [rosakasa_core](https://github.com/lyszt/rosakasa_core): Minimal 3D Game Engine for the Lys Entertainment System. (Sort of hallucinatory since reality is defined server-side)
 
 - [ryujinni_core](https://github.com/lyszt/ryujinni_core): The Elixir version of the Clairemont bot from Discord, powered by the Providence Network (Providentia).
 
@@ -69,6 +69,8 @@
 - [talleyrand_core](https://github.com/lyszt/talleyrand_core): .config Linux configuration manager built in C++. 
 
 - [the-repositorium_core](https://github.com/lyszt/the-repositorium_core): Github Pages Dev Diary and documentation for my projects. 
+
+- [toadkeep-II_core](https://github.com/lyszt/toadkeep-II_core): Keyboard prosthesis: mark dead physical keys, then chord their row-neighbors to type the missing character. Kotlin/JavaFX, JNativeHook + xdotool, ABNT2, Linux/X11.
 
 - [undertale-in-extremis_core](https://github.com/lyszt/undertale-in-extremis_core): Project for Computer Organization (Organização de Computadores). Undertale-like Assembly Risc-V RPG battle simulator. 
 
@@ -94,7 +96,7 @@
 
 - [scarlett-dash_legacy](https://github.com/lyszt/scarlett-dash_legacy): Personal dashboard.
 
-- [scarlett-gateway_legacy](https://github.com/lyszt/scarlett-gateway_legacy): 
+- [scarlett-gateway_legacy](https://github.com/lyszt/scarlett-gateway_legacy): Now doesn't exist. Early version of LYSZT Tessera, Scarlett Citadel written in PHP. Very early times.
 
 <br><br>
 
@@ -113,6 +115,8 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge)
+![Makefile](https://img.shields.io/badge/Makefile-000000?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-000000?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
