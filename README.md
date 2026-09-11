@@ -7,18 +7,14 @@
 </p>
 <br>
 
- [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
+ [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/approved-by-veridian-dynamics.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-flux-capacitor.svg)](https://forthebadge.com)
 
 <br><br>
 
 ![3d commit history](./profile-3d-contrib/profile-green-animate.svg)
-
-
-<a href="https://lyszt.net"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyszt/)
-<img src="https://komarev.com/ghpvc/?username=lyszt&style=flat-square" width="150">
 
 ## Time continues to flow, and time brings change.
 
@@ -26,7 +22,7 @@
 
 > "It's disguised. It's camouflaged as a 1963 police telephone box. Every time the TARDIS materializes in a new location, within the first nanosecond of landing, it analyzes the surrounding environment, calculates a twelve-dimensional data map of everything within a thousand-mile radius, and then determines which outer shell would blend in best with the environment... and then it disguises itself as a 1963 police telephone box."
 
-<img width="2840" height="2094" alt="Tech Evolution tree" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWM5ZTBpcmoyd2ZmdGE2bm15a3U0YmowYXdwbXNob2JxODZwaGFocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OPvfI9pcGE8pvRpDKO/giphy.gif" />
+<img width="2840" height="2094" alt="Tech Evolution tree" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFkY2N6MHA3MTJ6c2JqMXNjNnE4c2sxd2ttejlnaTNlMmk4a2lnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PoNYTOZLKBMiAnwAZk/giphy.gif" />
 
 <br>
 
